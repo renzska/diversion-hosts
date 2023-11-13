@@ -2,7 +2,7 @@
 # Project home page https://github.com/PracticalChip/Adblocking
 
 # This was added at the request of the developer of Diversion
-# Augmented with additional domains
+# Augmented with additional domains by renzska for personal use
 
 steamcdn-a.akamaihd.net
 media.steampowered.com	
